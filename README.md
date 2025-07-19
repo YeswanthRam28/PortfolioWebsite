@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML and hosted on GitHub Pages. It serves as a digital resume where I showcase my projects, skills, and contact details.
 
 You can view the live version here:  
-🔗 [**[https://yourusername.github.io/PortfolioWebsite](https://yourusername.github.io/PortfolioWebsite)**](https://github.com/YeswanthRam28/PortfolioWebsite.git)
+🔗 (https://github.com/YeswanthRam28/PortfolioWebsite.git)
 
 ---
 
