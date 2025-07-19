@@ -45,5 +45,5 @@ To deploy your own:
 
 ## 📫 Contact
 
-- Email: yourmail@example.com  
+- Email: yeswanthram.2007@gmail.com  
 - GitHub: [@yourusername](https://github.c)
