@@ -39,11 +39,11 @@ To deploy your own:
 2. Go to `Settings` → `Pages`
 3. Under "Source", select the `main` branch and root folder.
 4. GitHub will host your site at:  
-   `https://yeswanthram28.github.io/portfoliowebsite/`
+   `[https://yeswanthram28.github.io/portfoliowebsite/](https://github.com/YeswanthRam28/PortfolioWebsite.git)`
 
 ---
 
 ## 📫 Contact
 
 - Email: yeswanthram.2007@gmail.com  
-- GitHub: [@yourusername](https://github.c)
+- GitHub: [@Yeswanthram28]([https://github.c](https://github.com/YeswanthRam28/PortfolioWebsite.git))
