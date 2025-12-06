@@ -8,6 +8,10 @@ body {
     line-height: 1.7;
 }
 
+header{
+    text-align: center;
+}
+
 /* ---------- Navbar ---------- */
 nav {
     background: #0d6efd;
@@ -57,7 +61,6 @@ h2 {
     padding-bottom: 0.3rem;
     font-size: 1.6rem;
     color: #343a40;
-    text-align: center;
 }
 
 /* ---------- Project Cards ---------- */
